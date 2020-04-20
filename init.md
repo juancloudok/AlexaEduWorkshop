@@ -1,5 +1,3 @@
-# Amazon Alexa Skill Building
-
 In this lab session, we will be building a Alexa Skill that will do the following:
 
 - Greet the user with a welcome message when they open the Alexa Skill
