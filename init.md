@@ -2,17 +2,17 @@
 
 In this lab session, we will be building a Alexa Skill that will do the following:
 
-* Greet the user with a welcome message when they open the Alexa Skill
+- Greet the user with a welcome message when they open the Alexa Skill
 
-⋅⋅⋅We will do this using a Alexa Skill interaction model and a AWS Lambda function (using Python)⋅⋅
+  - We will do this using a Alexa Skill interaction model and a AWS Lambda function (using Python)⋅⋅
 
-* Conversation dialog experience and fetching data from a database
+- Conversation dialog experience and fetching data from a database
 
-We will do this using Intents and Slots (to fulfill user input) and a DynamoDB database table, which will house the various questions and responses that Alexa will use to relay to the user via Speech prompts
+  - We will do this using Intents and Slots (to fulfill user input) and a DynamoDB database table, which will house the various questions and responses that Alexa will use to relay to the user via Speech prompts
 
-* Build and Test the Skill
+- Build and Test the Skill
 
-We will do this using the Alexa Simulator and also using a Alexa Echo Dot device
+  - We will do this using the Alexa Simulator and also using a Alexa Echo Dot device
 
 - Publishing and Certification
   - Discuss the process and options available
