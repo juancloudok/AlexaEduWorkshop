@@ -13,11 +13,11 @@ We will do this using Intents and Slots (to fulfill user input) and a DynamoDB d
 * Build and Test the Skill
 
 We will do this using the Alexa Simulator and also using a Alexa Echo Dot device
-* Publishing and Certification
 
- - Discuss the process and options available
-   - Public Skill vs. Private Skill
-   - Beta Testing
+- Publishing and Certification
+  - Discuss the process and options available
+    - Public Skill vs. Private Skill
+    - Beta Testing
  
  - First list item
    - First nested list item
