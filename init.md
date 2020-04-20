@@ -15,10 +15,13 @@ We will do this using Intents and Slots (to fulfill user input) and a DynamoDB d
 We will do this using the Alexa Simulator and also using a Alexa Echo Dot device
 * Publishing and Certification
 
-- Discuss the process and options available
-
- - Public Skill vs. Private Skill
- - Beta Testing
+ - Discuss the process and options available
+   - Public Skill vs. Private Skill
+   - Beta Testing
+ 
+ - First list item
+   - First nested list item
+     - Second nested list item
 
 When starting to build for voice, it is a good practice to design the conversation experience. Two main artifacts that help with voice design are:
 
